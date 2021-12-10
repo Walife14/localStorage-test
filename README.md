@@ -17,6 +17,6 @@ What to improve on next...
 
 
 Technologies used:
- -HTML
- -CSS
- -JavaScript
+  - HTML
+  - CSS
+  - JavaScript
